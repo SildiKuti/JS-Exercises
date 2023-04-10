@@ -1,8 +1,9 @@
-# Exercise Closures
+# Object Methods - Exercise 1
 
-Try to write your first `closure`. Write a function called `printName` and declare inside it a variable called `helloName`, the value of this variable will be: `"Hello John"`.
-Also declare a function named `inner` and return the `helloName` variable.
-The purpose is printing `"Hello John"` in the console.
+Create an object `person`. Print its key/value pair in the console. Try to use the method `Object.kyes`:
 
-Tips:
-- You can learn more about this topic checking the following article: https://www.freecodecamp.org/news/closures-in-javascript/
+```
+firstName: Mario
+lastName: Rossi
+age: 25
+```
